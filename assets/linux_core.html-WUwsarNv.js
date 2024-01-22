@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-28ae8566","path":"/blogs/system/linux_core.html","title":"linux内核编译","lang":"en-US","frontmatter":{"title":"linux内核编译","tags":["linux"],"categories":["system"]},"headers":[]}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5fa283e8","path":"/blogs/other/ComputerKnowledge.html","title":"计算机知识扫盲","lang":"en-US","frontmatter":{"title":"计算机知识扫盲","tags":["other"],"categories":["other"]},"headers":[{"level":2,"title":"CPU","slug":"cpu","link":"#cpu","children":[]},{"level":2,"title":"GPU","slug":"gpu","link":"#gpu","children":[]}]}');export{e as data};

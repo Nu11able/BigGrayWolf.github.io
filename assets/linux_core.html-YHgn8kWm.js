@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as s,b as c}from"./app-dYRofbQn.js";const l={},t=c("p",null,"编译内核需要的库总结如下: libncurses-dev flex bison libssl-dev libelf-dev",-1),n=[t];function _(r,i){return o(),s("div",null,n)}const f=e(l,[["render",_],["__file","linux_core.html.vue"]]);export{f as default};

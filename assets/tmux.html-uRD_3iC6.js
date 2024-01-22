@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-73cd49d2","path":"/blogs/Tools/tmux.html","title":"tmux","lang":"en-US","frontmatter":{"title":"tmux","tags":["tools"],"categories":["tools"]},"headers":[{"level":2,"title":"参考资料","slug":"参考资料","link":"#参考资料","children":[]}]}');export{t as data};

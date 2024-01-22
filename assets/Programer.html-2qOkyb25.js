@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-10e7ba3e","path":"/blogs/other/Programer.html","title":"《程序员的自我修养》阅读记录","lang":"en-US","frontmatter":{"title":"《程序员的自我修养》阅读记录","tags":["other"],"categories":["other"]},"headers":[{"level":2,"title":"指定变量所处的段","slug":"指定变量所处的段","link":"#指定变量所处的段","children":[]}]}');export{e as data};
